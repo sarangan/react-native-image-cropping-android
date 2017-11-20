@@ -1,0 +1,29 @@
+{
+  "name": "react-native-image-cropping-android",
+  "version": "0.0.1",
+  "author": "sarangan",
+  "private": false,
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sarangan/react-native-image-cropping-android.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sarangan/react-native-image-cropping-android/issues"
+  },
+  "homepage": "https://github.com/sarangan/react-native-image-cropping-android",
+  "keywords": [
+    "react-native",
+    "android",
+    "library",
+    "image",
+    "cropping"
+  ],
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.38.0"
+  }
+}
