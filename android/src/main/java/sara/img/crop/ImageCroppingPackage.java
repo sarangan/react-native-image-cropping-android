@@ -27,7 +27,7 @@ public class ImageCroppingPackage implements ReactPackage {
             ReactApplicationContext reactContext) {
         List<NativeModule> modules = new ArrayList<>();
 
-        modules.add(new Module(reactContext));
+        modules.add(new ImageCroppingModule(reactContext));
 
         return modules;
     }
