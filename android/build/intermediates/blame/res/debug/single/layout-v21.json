@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
