@@ -33,7 +33,7 @@ public class ImageCroppingModule extends ReactContextBaseJavaModule implements A
   private Promise mPickerPromise;
 
   //@Override
-public void onActivityResult(final int requestCode, final int resultCode, final Intent intent) {
+public void onActivityResult(Activity activity, final int requestCode, final int resultCode, final Intent intent) {
 
   if (requestCode == CropImage.CROP_IMAGE_ACTIVITY_REQUEST_CODE) {
    CropImage.ActivityResult result = CropImage.getActivityResult(intent);
@@ -119,6 +119,19 @@ public void onActivityResult(final int requestCode, final int resultCode, final 
     Intent intent = CropImage.activity(parse(imageUri)).getIntent(getReactApplicationContext());
     currentActivity.startActivityForResult(intent, CROP_IMAGE_ACTIVITY_REQUEST_CODE);
 
+
+  }
+
+
+  @Override
+  public void onActivityResult(int requestCode, int resultCode, Intent data) {
+
+    if (requestCode == CropImage.CROP_IMAGE_ACTIVITY_REQUEST_CODE) {
+      CropImage.ActivityResult result = CropImage.getActivityResult(data);
+
+      Toast.makeText(getReactApplicationContext(), "Cropping successful, Sample: " + result.getSampleSize(), Toast.LENGTH_LONG).show();
+
+    }
 
   }
 
