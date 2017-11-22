@@ -12,12 +12,12 @@
         "source": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/generated/res/pngs/androidTest/debug/drawable-xhdpi/abc_ic_menu_overflow_material.png"
     },
     {
-        "merged": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
         "source": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/ksara/React-Native/react-native-image-cropping-android/android/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",

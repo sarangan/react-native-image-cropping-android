@@ -32,7 +32,7 @@ public class ImageCroppingModule extends ReactContextBaseJavaModule implements A
 
   private Promise mPickerPromise;
 
-  @Override
+  //@Override
 public void onActivityResult(final int requestCode, final int resultCode, final Intent intent) {
 
   if (requestCode == CropImage.CROP_IMAGE_ACTIVITY_REQUEST_CODE) {
